@@ -1,5 +1,3 @@
-# dotnet-roadmap-2024
-
 # ASP.NET Core Developer Roadmap 2024
 
 ## MVC
